@@ -1,13 +1,10 @@
 [
     {
-        "user": "x1",
-        "pass": "pass1",
-        "maBM": "BM001"
+        "x1": "pass1",
     },
     {
-        "user": "x2",
-        "pass": "pass2",
-        "maBM": "BM002"
+        "x2": "passx2",
+       
     },
     {
         "user": "user3",
