@@ -1,15 +1,5 @@
-id1= {
-        "user": "user1",
-        "passwd": "passwd1",
-        "time": "2025-04-01 19:00"
-    },
-id2= {
-        "user": "user1",
-        "passwd": "passwd1",
-        "time": "2025-04-11 19:00"
-    },
-id3= {
-        "user": "user1",
-        "passwd": "passwd1",
-        "time": "2025-04-21 19:00"
-    },
+user1:passwd1: time= "2025-04-01 19:00"
+user2:passwd2: time= "2025-04-03 19:00"
+user3:passwd3: time= "2025-04-05 19:00"
+user4:passwd4: time= "2025-04-11 19:00"
+user5:passwd5: time= "2025-04-19 19:00"
