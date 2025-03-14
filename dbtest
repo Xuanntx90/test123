@@ -1,15 +1,15 @@
 id1= {
-        "user": "user1"}",
+        "user": "user1",
         "passwd": "passwd1",
         "time": "2025-04-01 19:00"
     },
 id2= {
-        "user": "user1"}",
+        "user": "user1",
         "passwd": "passwd1",
         "time": "2025-04-11 19:00"
     },
 id3= {
-        "user": "user1"}",
+        "user": "user1",
         "passwd": "passwd1",
         "time": "2025-04-21 19:00"
     },
